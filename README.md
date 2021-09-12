@@ -1,4 +1,4 @@
-[link para o projeto](filmes-sooty.vercel.app)
+[link para o projeto](https://filmes-sooty.vercel.app)
 # consumindo-api-de-filmes-da-omdb
 
 ## esse projeto me ensinou bastante coisa massa sobre requisiçoes no front end
